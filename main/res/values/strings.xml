@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpedaliereInventoryApp</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="login_button">Login</string>
+    <string name="submit_button">Submit</string>
+    <string name="create_new_account">Create Account</string>
+    <string name="title">Inventory App</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="copyright">Copyright 2023</string>
+    <string name="first_name_hint">first name</string>
+    <string name="last_name_hint">last name</string>
+    <string name="new_inventory_title">New Inventory Item</string>
+    <string name="item_name">Item Name:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="add_btn">Add</string>
+</resources>
